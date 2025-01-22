@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1876-map-of-highest-peak](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Shortest Path
 |  |
 | ------- |
