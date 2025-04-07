@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0854-making-a-large-island](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
