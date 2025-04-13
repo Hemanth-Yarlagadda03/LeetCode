@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3548-find-the-count-of-good-integers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2998-count-symmetric-integers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Data Stream
 |  |
 | ------- |
@@ -247,4 +249,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
