@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2050-count-good-numbers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2998-count-symmetric-integers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
