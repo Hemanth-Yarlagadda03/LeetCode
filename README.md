@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3548-find-the-count-of-good-integers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
