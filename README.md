@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0038-count-and-say) |
 | [0952-word-subsets](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1524-string-matching-in-an-array) |
