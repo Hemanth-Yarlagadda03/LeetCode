@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0797-rabbits-in-forest](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0952-word-subsets](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2509-minimize-xor) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2050-count-good-numbers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
