@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2249-count-the-hidden-sequences](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Array
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2249-count-the-hidden-sequences](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
