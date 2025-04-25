@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2915-count-of-interesting-subarrays](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3548-find-the-count-of-good-integers](https://github.com/Hemanth-Yarlagadda03/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Bit Manipulation
